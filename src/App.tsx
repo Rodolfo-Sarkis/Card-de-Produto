@@ -9,7 +9,7 @@ function App() {
         {/* Área da Imagem */}
         <div className="bg-white m-2 rounded-t-xl overflow-hidden">
           <img
-            src="./public/camiseta-2 (2).png"
+            src="./camiseta-2 (2).png"
             alt="Camiseta Dev em Dobro"
             className="w-full h-auto object-cover"
           />
