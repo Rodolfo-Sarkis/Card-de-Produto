@@ -1,0 +1,6 @@
+@import "tailwindcss/preflight";
+@tailwind utilities;
+
+body {
+  @apply bg-zinc-900 flex items-center justify-center min-h-screen;
+}
